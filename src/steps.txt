@@ -17,3 +17,10 @@ Chat-app:
 commit 2
 5. create files for components in Navbar
 6. add router part for those components in App.js
+commit 3
+7. add code to Homepage.jsx
+8. create services folder and cryptoApi.js within init
+9. add code from rapid API's coinranking api in cryptoApi
+10. create app folder and store.js in it, add redux code
+11. import store into index.js, import Provider from react-redux
+12. create the function in cryptoApi, add the reducer code to store.js
