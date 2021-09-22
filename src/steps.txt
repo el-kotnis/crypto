@@ -31,3 +31,5 @@ commit 4
 commit 5
 16. add code to Cryptocurrencies, write code to show top 10 in the Homepage
 commit 6 
+17. create the search bar in the Cryptocurrencies page with useEffect
+commit7
