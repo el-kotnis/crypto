@@ -24,3 +24,7 @@ commit 3
 10. create app folder and store.js in it, add redux code
 11. import store into index.js, import Provider from react-redux
 12. create the function in cryptoApi, add the reducer code to store.js
+13. import cryptoApi into Homepage after exporting it as useGetCryptosQuery
+commit 4
+14. use millify to display the globalStats in Homepage with style
+15. add the part showing cryptocurrencies and news in Homepage
