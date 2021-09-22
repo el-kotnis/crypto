@@ -28,3 +28,6 @@ commit 3
 commit 4
 14. use millify to display the globalStats in Homepage with style
 15. add the part showing cryptocurrencies and news in Homepage
+commit 5
+16. add code to Cryptocurrencies, write code to show top 10 in the Homepage
+commit 6 
