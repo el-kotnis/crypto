@@ -32,4 +32,9 @@ commit 5
 16. add code to Cryptocurrencies, write code to show top 10 in the Homepage
 commit 6 
 17. create the search bar in the Cryptocurrencies page with useEffect
-commit7
+commit 7
+18. add code to News.jsx
+19. create cryptoNewsApi.js to implement the Bing Api from Rapid Api
+20. import cryptoNewsApi into the store
+21. add code for the news cards in News.jsx
+commit 8
