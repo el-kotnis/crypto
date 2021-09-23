@@ -38,3 +38,5 @@ commit 7
 20. import cryptoNewsApi into the store
 21. add code for the news cards in News.jsx
 commit 8
+22. add code for search bar in News page
+commit 9
