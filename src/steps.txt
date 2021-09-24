@@ -44,3 +44,10 @@ commit 9
 24. create a new endpoint getCryptoDetails in the cryptoApi.js and export
 it as useGetCryptoDetailsQuery
 25. import it into Cryptodetails, add code for to show the details of the coin
+commit 10
+26. create LineChart.jsx, add code
+27. import LineChart into Cryptodetails and add the code for it
+28. create the endpoint and export it as useGetCryptoHistoryQuery, import into Cryptodetails
+29. add the code for coinHistory in Cryptodetails
+30. add the loops in LineChart to create the dataset for the chart
+commit 11
