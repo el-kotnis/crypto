@@ -51,3 +51,10 @@ commit 10
 29. add the code for coinHistory in Cryptodetails
 30. add the loops in LineChart to create the dataset for the chart
 commit 11
+31. add the code in Navbar for Mobile optimization
+32. add code to Exchanges.jsx, create the endpoint useGetExchangesQuery in cryptoApi
+33. create the Loader.jsx for a spin Loader
+34. import Loader.jsx into every file with Loading...
+35. npm run build in the terminal to create the build folder
+36. drop the build folder in netlify website and give the domain name
+to deploy the website

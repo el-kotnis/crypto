@@ -1,5 +1,6 @@
 import React,{useEffect,useState} from 'react'
 import millify from 'millify'
+import Loader from './Loader'
 import {Link} from 'react-router-dom'
 import {Card,Row,Col,Input} from 'antd'
 import {useGetCryptosQuery} from '../services/cryptoApi'
@@ -15,7 +16,7 @@ const Cryptocurrencies = ({simplified}) => {
     
         setCryptos(filteredData);
       }, [cryptosList, searchTerm])
-    if(isFetching) return 'Loading...'
+    if(isFetching) return <Loader/>
     return (
         <>
             {!simplified && (

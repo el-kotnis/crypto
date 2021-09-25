@@ -32,7 +32,7 @@ const LineChart = ({coinHistory,currentPrice,coinName}) => {
             },
           ],
         },
-      }
+      }   
     return (
         <>
             <Row className="chart-header">
